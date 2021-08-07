@@ -1,6 +1,8 @@
 # Project1 - Outpatient Management System
 
-### Features of the Project
+![image](https://user-images.githubusercontent.com/82455813/128600949-bdaa0713-91ba-43a7-a954-61b224aee2a0.jpeg)
+
+### Features of the Project :
 1. Doctor login with individual username & password authentication with exclusive access to
       - view appointments schedule - write / view prescription
       - write / view notes
