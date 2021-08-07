@@ -14,3 +14,5 @@
 3. If any patient tries to book an appointment slot which is already booked, with the same doctor, then they are requested to choose a different slot.
 4. Logout functionality.
 5. If anyone without a valid username and password tries to access the patient domain or the doctor domain, they are denied access.
+
+### Please ⭐ before you clone/fork this repository! 😊
