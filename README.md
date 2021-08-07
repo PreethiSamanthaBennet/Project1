@@ -15,4 +15,4 @@
 4. Logout functionality.
 5. If anyone without a valid username and password tries to access the patient domain or the doctor domain, they are denied access.
 
-### Please ⭐ before you clone/fork this repository! 😊
+### Please ⭐ before you clone / fork this repository! 😊
