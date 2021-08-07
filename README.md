@@ -1,4 +1,4 @@
-# Project1 - Outpatient Management System
+## Project1 - Outpatient Management System
 
 ![image](https://user-images.githubusercontent.com/82455813/128600949-bdaa0713-91ba-43a7-a954-61b224aee2a0.jpeg)
 
