@@ -1,3 +1,5 @@
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD_3_Clause-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
+
 ## Project1 - Outpatient Management System
 
 ![image](https://user-images.githubusercontent.com/82455813/128600949-bdaa0713-91ba-43a7-a954-61b224aee2a0.jpeg)
